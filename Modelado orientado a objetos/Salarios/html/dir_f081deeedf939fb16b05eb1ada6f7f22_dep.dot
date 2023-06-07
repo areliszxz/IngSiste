@@ -1,0 +1,12 @@
+digraph "Salarios ACT2/trabajador"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_382687cb8a4ae395357ff7d9e9b41ff9 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="Salarios ACT2", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_382687cb8a4ae395357ff7d9e9b41ff9.html",tooltip=""]
+  dir_f081deeedf939fb16b05eb1ada6f7f22 [label="trabajador", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_f081deeedf939fb16b05eb1ada6f7f22.html",tooltip=""];
+  }
+}

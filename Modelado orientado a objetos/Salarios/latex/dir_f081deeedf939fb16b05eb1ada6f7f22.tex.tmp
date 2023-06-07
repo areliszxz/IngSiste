@@ -1,0 +1,9 @@
+\doxysection{Salarios ACT2/trabajador Directory Reference}
+\hypertarget{dir_f081deeedf939fb16b05eb1ada6f7f22}{}\label{dir_f081deeedf939fb16b05eb1ada6f7f22}\index{Salarios ACT2/trabajador Directory Reference@{Salarios ACT2/trabajador Directory Reference}}
+Directory dependency graph for trabajador\+:
+% FIG 0
+\doxysubsubsection*{Files}
+\begin{DoxyCompactItemize}
+\item 
+file \mbox{\hyperlink{_salario_8java}{Salario.\+java}}
+\end{DoxyCompactItemize}

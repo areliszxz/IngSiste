@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PromedioAlumnos
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=calificaciones
+comment2.target=double\ calcularPromedio(double[])
+comment3.params=index
+comment3.target=java.lang.String\ getMateria(int)
+numComments=4
